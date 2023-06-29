@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ui-ibelick-svelte",
+    "title": "UI Ibelick Svelte",
+    "url": "https://ui-ibelick-svelte.vercel.app/",
+    "description": "A unique collection of modern UI components and effects for Svelte",
+    "image": "https://ui-ibelick-svelte.vercel.app/og.png",
+    "tags": ["components", "svelte", "ui"],
+    "repo": "https://github.com/shaunchander/ui.ibelick-svelte"
+  },
+  {
+    "name": "ui-ibelick-react",
+    "title": "UI Ibelick React",
+    "url": "https://ui.ibelick.com/",
+    "description": "A unique collection of modern UI components and effects for React",
+    "image": "https://ui-ibelick-svelte.vercel.app/og.png",
+    "tags": ["components", "react", "ui"],
+    "repo": "https://github.com/ibelick/ui-snippets"
+  },
+  {
+    "name": "pines",
+    "title": "Pines",
+    "url": "https://devdojo.com/pines",
+    "description": "Pines is an Alpine and Tailwind UI library of animations, sliders, tooltips, accordions, modals, and more!",
+    "image": "https://cdn.devdojo.com/images/june2023/og-image.jpeg",
+    "tags": ["components", "alphine", "ui", "tailwind"],
+    "repo": "https://github.com/ibelick/ui-snippets"
+  }
+]
