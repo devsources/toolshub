@@ -6,7 +6,8 @@ export default function Home() {
       <section className="grid place-content-center gap-4 py-24 h-[calc(100vh_-_64px)]">
         <h1 className="font-extrabold text-center text-7xl">Devsources</h1>
         <h2 className="font-semibold text-center text-2xl max-w-2xl">
-          Welcome to the platform where you will find the best resources for programmers, designers and more.
+          Welcome to the platform where you will find the best resources for
+          programmers, designers and more.
         </h2>
       </section>
 

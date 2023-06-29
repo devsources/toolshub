@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${poppinsFont.className} bg-slate-50`}>
+      <body className={`${poppinsFont.className} bg-slate-600`}>
         <Header />
         {children}
 

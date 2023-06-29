@@ -6,8 +6,8 @@ type Props = {
 
 export default function Page({ params: { category } }: Props) {
   return (
-    <main>
-      <h1>{unsluglify(category)}</h1>
+    <main className="max-w-7xl my-20">
+      <h1 className="font-bold text-4xl text-center">{unsluglify(category)}</h1>
     </main>
   )
 }
