@@ -16,4 +16,14 @@
     "image": "https://fontsource.org/og-image.png",
     "tags": ["fonts", "css"],
     "repo": "https://github.com/fontsource/fontsource"
+  },
+  {
+    "name": "ui.ibelick",
+    "title": "ui.Ibelick",
+    "url": "https://ui.ibelick.com/",
+    "description": "A unique collection of modern UI components and effects.",
+    "image": "https://raw.githubusercontent.com/ibelick/ui-snippets/main/public/cover.webp",
+    "tags": ["components", "css"],
+    "repo": "https://github.com/ibelick/ui-snippets"
+  }
 ]
