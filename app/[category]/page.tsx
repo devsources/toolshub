@@ -1,3 +1,5 @@
+import { unsluglify } from "@/app/utils/sluglify"
+
 type Props = {
   params: { category: string }
 }
@@ -5,7 +7,7 @@ type Props = {
 export default function Page({ params: { category } }: Props) {
   return (
     <main>
-      <h1>{category}</h1>
+      <h1>{unsluglify(category)}</h1>
     </main>
   )
 }

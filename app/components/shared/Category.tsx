@@ -1,3 +1,5 @@
+import { sluglify } from "@/app/utils/sluglify"
+
 type Props = {
   name: string
   description: string
@@ -5,7 +7,7 @@ type Props = {
 
 export function Category({ description, name }: Props) {
   return (
-    <a href={`/${name.toLowerCase().replaceAll(" ", "-")}`}>
+    <a href={`/${sluglify(name)}`}>
       <section className="flex gap-2 bg-slate-800 rounded-md overflow-hidden">
         <img
           src="https://picsum.photos/300"
