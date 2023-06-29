@@ -1,5 +1,5 @@
 import { unsluglify } from "@/app/utils/sluglify"
-import resources from "@/app/db/UI.json"
+import resources from "@/app/db/component-libraries.json"
 import { ResourceCard } from "../components/shared/ResourceCard"
 
 type Props = {

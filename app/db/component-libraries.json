@@ -25,5 +25,14 @@
     "image": "https://cdn.devdojo.com/images/june2023/og-image.jpeg",
     "tags": ["components", "alphine", "ui", "tailwind"],
     "repo": "https://github.com/ibelick/ui-snippets"
+  },
+  {
+    "name": "melt-ui",
+    "title": "Melt UI",
+    "url": "https://www.melt-ui.com/",
+    "description": "Una colección de código abierto de utilidades y generadores de componentes accesibles, reutilizables y componibles para crear interfaces de usuario atractivas con Svelte",
+    "image": "https://www.melt-ui.com/banner.png",
+    "tags": ["diseño", "componentes"],
+    "repo": "https://github.com/melt-ui/melt-ui"
   }
 ]

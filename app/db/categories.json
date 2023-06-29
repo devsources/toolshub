@@ -4,7 +4,15 @@
     "name": "Component Libraries"
   },
   {
-    "description": "Component libraries for React, Astro, and Svelte",
+    "description": "AI's for design",
     "name": "AI tools"
+  },
+  {
+    "description": "CSS generators, text utilities",
+    "name": "Frontend"
+  },
+  {
+    "description": "Test your skills for design, algorithms and coding in general.",
+    "name": "Games"
   }
 ]
