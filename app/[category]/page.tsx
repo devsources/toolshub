@@ -1,6 +1,7 @@
-import { unsluglify } from "@/app/utils/sluglify"
+import { sluglify, unsluglify } from "@/app/utils/sluglify"
 import resources from "@/app/db/component-libraries.json"
 import { ResourceCard } from "../components/shared/ResourceCard"
+import categories from "@/app/db/categories.json"
 
 type Props = {
   params: { category: string }
@@ -24,4 +25,10 @@ export default function Page({ params: { category } }: Props) {
       </section>
     </main>
   )
+}
+
+export async function generateStaticParams() {
+  return categories.map((category) => ({
+    slug: sluglify(category.name)
+  }))
 }
