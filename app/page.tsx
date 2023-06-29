@@ -1,4 +1,5 @@
 import { Category } from "./components/shared/Category"
+import categories from "@/app/db/categories.json"
 
 export default function Home() {
   return (
@@ -12,16 +13,9 @@ export default function Home() {
       </section>
 
       <section className="grid grid-cols-[repeat(auto-fill,minmax(600px,1fr))] gap-4 my-20">
-        <Category
-          description="Component libraries for React, Astro, and Svelte"
-          name="UI kits"
-        />
-        <Category
-          description="Useful tools like CSS generators, etc..."
-          name="Tools"
-        />
-        <Category description="AI tools" name="AI" />
-        <Category description="lorem ipsum dolor" name="Lorem" />
+        {categories.map(({ description, name }) => (
+          <Category key={name} description={description} name={name} />
+        ))}
       </section>
     </main>
   )
