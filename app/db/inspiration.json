@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cosmos",
+    "title": "Cosmos",
+    "url": "https://www.cosmos.so",
+    "description": "A Pinterest alternative for creatives.",
+    "image": "http://landing.cosmos.so/wp-content/uploads/2023/06/home-ogimg.jpg",
+    "tags": ["diseño-web"],
+    "repo": "#"
+  },
+  {
+    "name": "dribble",
+    "title": "Dribble",
+    "url": "https://dribbble.com/",
+    "description": "the home to the world’s best design and creative professionals.",
+    "image": "https://linube.com/blog/errores-http-4xx/",
+    "tags": ["diseño-web"],
+    "repo": "#"
+  }
+]
