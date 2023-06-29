@@ -1,18 +1,22 @@
 [
   {
     "description": "Component libraries for UI frameworks like React, Astro, and Svelte",
-    "name": "Component Libraries"
+    "name": "Component Libraries",
+    "slug": "component-libraries"
   },
   {
     "description": "AI's for design",
-    "name": "AI tools"
+    "name": "AI tools",
+    "slug": "ai-tools"
   },
   {
     "description": "CSS generators, text utilities",
-    "name": "Frontend"
+    "name": "Frontend",
+    "slug": "frontend"
   },
   {
     "description": "Test your skills for design, algorithms and coding in general.",
-    "name": "Games"
+    "name": "Games",
+    "slug": "games"
   }
 ]

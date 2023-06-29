@@ -1,13 +1,12 @@
-import { sluglify } from "@/app/utils/sluglify"
-
 type Props = {
   name: string
   description: string
+  slug: string
 }
 
-export function Category({ description, name }: Props) {
+export function Category({ description, name, slug }: Props) {
   return (
-    <a href={`/${sluglify(name)}`}>
+    <a href={`/${slug}`}>
       <section className="flex gap-2 bg-slate-800 rounded-md overflow-hidden">
         <img
           src="https://picsum.photos/300"

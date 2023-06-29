@@ -1,13 +1,22 @@
 import { sluglify, unsluglify } from "@/app/utils/sluglify"
-import resources from "@/app/db/component-libraries.json"
 import { ResourceCard } from "../components/shared/ResourceCard"
 import categories from "@/app/db/categories.json"
+
+type Resource = {
+  description: string,
+  name: string,
+  image: string,
+  title: string,
+  url: string
+}
 
 type Props = {
   params: { category: string }
 }
 
-export default function Page({ params: { category } }: Props) {
+export default async function Page({ params: { category } }: Props) {
+  const resources = (await import(`@/app/db/${category}`)).default as Resource[]
+
   return (
     <main className="max-w-7xl my-20 mx-auto">
       <h1 className="font-bold text-4xl text-center">{unsluglify(category)}</h1>
