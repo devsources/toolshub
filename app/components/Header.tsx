@@ -1,3 +1,4 @@
+import { IconBrandGithub } from "@tabler/icons-react"
 import Link from "next/link"
 
 export function Header() {
@@ -11,12 +12,7 @@ export function Header() {
         <ul className="flex items-center gap-4">
           <li>
             <Link href="https://github.com/devsources/devsources">
-              <img
-                width="30"
-                height="30"
-                src="https://img.icons8.com/ios-glyphs/30/github.png"
-                alt="github"
-              />
+              <IconBrandGithub />
             </Link>
           </li>
         </ul>
