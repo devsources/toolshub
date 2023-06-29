@@ -1,0 +1,14 @@
+[
+  "name": "code-image",
+  "title": "Code Image",
+  "url": "https://app.codeimage.dev/",
+  "description": "Code Image is a tool that generates images from your code snippets.",
+  "image": "https://github.com/riccardoperra/codeimage/blob/main/assets/codeimage_card.png?raw=true",
+  "tags": [
+    "code",
+    "image",
+    "snippet",
+    "tool"
+  ],
+  "repo": "https://github.com/riccardoperra/codeimage"
+]

@@ -1,12 +1,11 @@
 [
   {
-    "the-good-line-height": {
-      "title": "The Good Line Height",
-      "url": "https://www.thegoodlineheight.com/",
-      "description": "A tool to help you find the perfect line height for your font size.",
-      "image": "https://www.thegoodlineheight.com/images/og-image.png",
-      "tags": ["typography", "design", "css"],
-      "repo": "#"
-    }
+    "name": "the-good-line-height",
+    "title": "The Good Line Height",
+    "url": "https://www.thegoodlineheight.com/",
+    "description": "A tool to help you find the perfect line height for your font size.",
+    "image": "https://www.thegoodlineheight.com/images/og-image.png",
+    "tags": ["typography", "design", "css"],
+    "repo": "#"
   }
 ]

@@ -1,11 +1,19 @@
 [
   {
-    "melt-ui": {
-      "url": "https://www.melt-ui.com/",
-      "description": "Una colección de código abierto de utilidades y generadores de componentes accesibles, reutilizables y componibles para crear interfaces de usuario atractivas con Svelte",
-      "image": "https://www.melt-ui.com/banner.png",
-      "tags": ["diseño", "componentes"],
-      "repo": "https://github.com/melt-ui/melt-ui"
-    }
-  }
+    "name": "melt-ui",
+    "title": "Melt UI",
+    "url": "https://www.melt-ui.com/",
+    "description": "Una colección de código abierto de utilidades y generadores de componentes accesibles, reutilizables y componibles para crear interfaces de usuario atractivas con Svelte",
+    "image": "https://www.melt-ui.com/banner.png",
+    "tags": ["diseño", "componentes"],
+    "repo": "https://github.com/melt-ui/melt-ui"
+  },
+  {
+    "name": "font-source",
+    "title": "Font Source",
+    "url": "https://fontsource.org/",
+    "description": "Fuentes de código abierto optimizadas para la web",
+    "image": "https://fontsource.org/og-image.png",
+    "tags": ["fonts", "css"],
+    "repo": "https://github.com/fontsource/fontsource"
 ]
