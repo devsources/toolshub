@@ -1,14 +1,30 @@
 [
-  "name": "code-image",
-  "title": "Code Image",
-  "url": "https://app.codeimage.dev/",
-  "description": "Code Image is a tool that generates images from your code snippets.",
-  "image": "https://github.com/riccardoperra/codeimage/blob/main/assets/codeimage_card.png?raw=true",
-  "tags": [
-    "code",
-    "image",
-    "snippet",
-    "tool"
-  ],
-  "repo": "https://github.com/riccardoperra/codeimage"
+  {
+    "name": "code-image",
+    "title": "Code Image",
+    "url": "https://app.codeimage.dev/",
+    "description": "Code Image is a tool that generates images from your code snippets.",
+    "image": "https://github.com/riccardoperra/codeimage/blob/main/assets/codeimage_card.png?raw=true",
+    "tags": [
+      "code",
+      "image",
+      "snippet",
+      "tool"
+    ],
+    "repo": "https://github.com/riccardoperra/codeimage"
+  },
+  {
+    "name": "Replay",
+    "title": "Replay",
+    "url": "https://www.replay.io/",
+    "description": "Record and replay your application with DevTools.",
+    "image": "https://www.replay.io/og-image.png",
+    "tags": [
+      "record",
+      "replay",
+      "devtools",
+      "debugging"
+    ],
+    "repo": "https://github.com/replayio/devtools"
+  }
 ]
