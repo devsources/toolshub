@@ -5,7 +5,8 @@
 body {
 	color: #eee;
 	background: linear-gradient(to bottom, #000, #003);
-
+}
+main {
 	padding: 0 1rem;
 }
 
