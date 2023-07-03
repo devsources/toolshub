@@ -5,12 +5,12 @@
     "slug": "component-libraries"
   },
   {
-    "description": "AI's for design",
+    "description": "AI's for design, content generation, image and video manipulation and more",
     "name": "AI tools",
     "slug": "ai-tools"
   },
   {
-    "description": "CSS generators, text utilities",
+    "description": "CSS generators, text utilities, icon repos and more",
     "name": "Frontend",
     "slug": "frontend"
   },
