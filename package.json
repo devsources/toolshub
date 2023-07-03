@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "format": "prettier --write \"app/**/*.{js,jsx,ts,tsx}\""
   },
   "dependencies": {
     "@tabler/icons-react": "2.23.0",
