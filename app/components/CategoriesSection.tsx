@@ -20,7 +20,13 @@ export function CategoriesSection() {
 						description={description}
 						name={name}
 						slug={slug}
-						className={CATEGORY_CARD_GRADIENTS[index]}
+						className={
+							CATEGORY_CARD_GRADIENTS[
+								index < CATEGORY_CARD_GRADIENTS.length
+									? index
+									: index - CATEGORY_CARD_GRADIENTS.length
+							]
+						}
 					/>
 				))}
 			</section>
