@@ -16,5 +16,59 @@
     "image": "https://fontsource.org/og-image.png",
     "tags": ["fonts", "css"],
     "repo": "https://github.com/fontsource/fontsource"
+  },
+  {
+    "name": "hypercolor",
+    "title": "Hypercolor",
+    "url": "https://hypercolor.dev/",
+    "description": "A curated collection of beautiful Tailwind CSS gradients using the full range of Tailwind CSS colors. Easily copy and paste the class names, CSS or even save the gradients as an image.",
+    "image": "https://hypercolor.dev/social.png",
+    "tags": ["colors", "css", "gradient", "tailwindcss"],
+    "repo": "https://github.com/jordihales/hypercolor"
+  },
+  {
+    "name": "codi-link",
+    "title": "Codi link",
+    "url": "https://codi.link/",
+    "description": "Live code editor for HTML, CSS and JavaScript",
+    "image": "https://midu.dev/favicon/apple-touch-icon.png",
+    "tags": ["code", "editor"],
+    "repo": "https://github.com/midudev/codi.link"
+  },
+  {
+    "name": "tabler-icons",
+    "title": "Tabler Icons",
+    "url": "https://tabler-icons.io/",
+    "description": "Free and open source SVG icons designed with attention to detail to make your design stand out. Highly customizable. No attribution required. For commercial use.",
+    "image": "https://tabler-icons.io/img/tabler-icons/og.png",
+    "tags": ["icons", "svg"],
+    "repo": "https://github.com/tabler/tabler-icons"
+  },
+  {
+    "name": "hero-icons",
+    "title": "Hero Icons",
+    "url": "https://heroicons.com/",
+    "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+    "image": "https://heroicons.com/_next/static/media/social-card.fefc68e0.jpg",
+    "tags": ["icons", "svg"],
+    "repo": "https://github.com/tailwindlabs/heroicons"
+  },
+  {
+    "name": "color-hunt",
+    "title": "Color Hunt",
+    "url": "https://colorhunt.co/",
+    "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
+    "image": "https://colorhunt.co/img/color-hunt-og.png",
+    "tags": ["colors"],
+    "repo": "#"
+  },
+  {
+    "name": "coolors",
+    "title": "Coolors",
+    "url": "https://coolors.co/",
+    "description": "The super fast color palettes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-7eVpRyvxPurVWwDb5dSpAjEfrfc3PIw_JYbr1xZ8eO5krg0L8cciVwIX-q9Wl6wWRs&usqp=CAU",
+    "tags": ["colors"],
+    "repo": "#"
   }
 ]

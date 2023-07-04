@@ -5,12 +5,7 @@
     "url": "https://app.codeimage.dev/",
     "description": "Code Image is a tool that generates images from your code snippets.",
     "image": "https://github.com/riccardoperra/codeimage/blob/main/assets/codeimage_card.png?raw=true",
-    "tags": [
-      "code",
-      "image",
-      "snippet",
-      "tool"
-    ],
+    "tags": ["code", "image", "snippet", "tool"],
     "repo": "https://github.com/riccardoperra/codeimage"
   },
   {
@@ -19,12 +14,7 @@
     "url": "https://www.replay.io/",
     "description": "Record and replay your application with DevTools.",
     "image": "https://www.replay.io/og-image.png",
-    "tags": [
-      "record",
-      "replay",
-      "devtools",
-      "debugging"
-    ],
+    "tags": ["record", "replay", "devtools", "debugging"],
     "repo": "https://github.com/replayio/devtools"
   },
   {
@@ -34,6 +24,78 @@
     "description": "Boost security, drive conversion and save money — in just a few minutes.",
     "image": "https://kinde.com/assets/images/open-graph/kinde-logo.png",
     "tags": ["auth"],
+    "repo": "#"
+  },
+  {
+    "name": "convert-io",
+    "title": "Convert IO",
+    "url": "https://convertio.co/",
+    "description": "Convert your files to any format",
+    "image": "#",
+    "tags": ["files", "converter"],
+    "repo": "#"
+  },
+  {
+    "name": "font-awesome",
+    "title": "Font Awesome",
+    "url": "https://fontawesome.com",
+    "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.",
+    "image": "https://img.fortawesome.com/1ce05b4b/open-graph-general.png",
+    "tags": ["fonts"],
+    "repo": "https://github.com/FortAwesome/Font-Awesome"
+  },
+  {
+    "name": "svgomg",
+    "title": "SVGOMG",
+    "url": "https://jakearchibald.github.io/svgomg/",
+    "description": "Web tool for optimizing SVG files",
+    "image": "https://jakearchibald.github.io/svgomg/imgs/icon.png",
+    "tags": ["svg", "optimization"],
+    "repo": "https://github.com/jakearchibald/svgomg"
+  },
+  {
+    "name": "iloveimg",
+    "title": "I Love IMG",
+    "url": "https://www.iloveimg.com/",
+    "description": "The all-in-one tool for images: resizer, compressor, cropper, converter, editor, upscaler, background remover, and more",
+    "image": "https://www.iloveimg.com/img/iloveimg/social/en-US/iloveimg.jpg",
+    "tags": ["images", "editor", "optimization"],
+    "repo": "#"
+  },
+  {
+    "name": "tiny-png",
+    "title": "Tiny PNG",
+    "url": "https://tinypng.com/",
+    "description": "Image optimizer and compressor",
+    "image": "https://tinypng.com/images/social/website.jpg",
+    "tags": ["images", "optimization"],
+    "repo": "#"
+  },
+  {
+    "name": "doodle-ipsum",
+    "title": "Doodle Ipsum",
+    "url": "https://doodleipsum.com/",
+    "description": "The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools.",
+    "image": "https://doodleipsum.com/1000x750/flat?bg=e3f5f8&i=23243fc71ac1a810a5873bde01e17f07",
+    "tags": ["images", "placeholder"],
+    "repo": "#"
+  },
+  {
+    "name": "pravatar",
+    "title": "Pravatar",
+    "url": "https://pravatar.cc/",
+    "description": "Generate realistic avatar placeholders for your MVP",
+    "image": "https://i.imgur.com/6xlqP1Yg.jpg",
+    "tags": ["images", "placeholder", "avatar"],
+    "repo": "#"
+  },
+  {
+    "name": "form-submit",
+    "title": "Form Submit",
+    "url": "https://formsubmit.co/",
+    "description": "Easy form endpoints for your HTML forms. Connect your form to our form endpoint and we’ll email you the submissions. No PHP, Javascript or any backend code required.",
+    "image": "https://formsubmit.co/image/home-page.png",
+    "tags": ["form", "backend"],
     "repo": "#"
   }
 ]
