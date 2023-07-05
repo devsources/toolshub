@@ -9,11 +9,11 @@ type Props = {
 
 export function ResourceCard({ description, imageURL, title, url }: Props) {
 	return (
-		<article className='flex flex-col gap-4 rounded-md hover:scale-105 hover:shadow-2xl bg-slate-700 p-4 max-w-xs transition-transform'>
+		<article className='flex flex-col gap-4 rounded-md hover:shadow-2xl bg-slate-700 p-4 transition-transform'>
 			<img
 				src={imageURL}
 				alt={title}
-				className='rounded-md aspect-video object-cover'
+				className='w-full rounded-md aspect-video object-cover'
 				width={300}
 				height={200}
 			/>
