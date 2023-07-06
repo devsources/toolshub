@@ -97,5 +97,50 @@
     "image": "https://formsubmit.co/image/home-page.png",
     "tags": ["form", "backend"],
     "repo": "#"
+  },
+  {
+    "name": "formspree",
+    "title": "Formspree",
+    "url": "https://formspree.io/",
+    "description": "Formspree is a form backend, API and email service for HTML forms. It is the simplest way to embed custom contact us forms, order forms, or email capture forms on your static site.",
+    "image": "https://formspree.io/img/formspree-og.jpg",
+    "tags": ["form", "backend"],
+    "repo": "#"
+  },
+  {
+    "name": "unavatar",
+    "title": "Unavatar",
+    "url": "https://unavatar.io/",
+    "description": "The ultimate avatar service that offers everything you need to easily retrieve user avatars",
+    "image": "https://unavatar.io/banner.png",
+    "tags": ["avatar", "placeholder"],
+    "repo": "https://github.com/microlinkhq/unavatar"
+  },
+  {
+    "name": "omatsuri",
+    "title": "Omatsuri",
+    "url": "https://omatsuri.app/",
+    "description": "Open source browser tools for everyday use",
+    "image": "https://github.com/rtivital/omatsuri/blob/master/src/assets/logo-text.svg",
+    "tags": ["tool", "devtools"],
+    "repo": "https://github.com/rtivital/omatsuri"
+  },
+  {
+    "name": "real-favicon-generator",
+    "title": "Real Favicon Generator",
+    "url": "https://realfavicongenerator.net/",
+    "description": "The ultimate favicon generator. Design your icons platform per platform and make them look great everywhere. Including in Google results pages.",
+    "image": "https://realfavicongenerator.net/favicon_generator_og_image.png",
+    "tags": ["favicon", "icon", "seo"],
+    "repo": "https://github.com/RealFaviconGenerator"
+  },
+  {
+    "name": "visbug",
+    "title": "VisBug",
+    "url": "https://visbug.web.app/",
+    "description": "Tangible playground for learning VisBug tools",
+    "image": "https://visbug.web.app/tuts/position.gif",
+    "tags": ["devtools", "tool"],
+    "repo": "https://github.com/GoogleChromeLabs/ProjectVisBug"
   }
 ]

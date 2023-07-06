@@ -70,5 +70,77 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-7eVpRyvxPurVWwDb5dSpAjEfrfc3PIw_JYbr1xZ8eO5krg0L8cciVwIX-q9Wl6wWRs&usqp=CAU",
     "tags": ["colors"],
     "repo": "#"
+  },
+  {
+    "name": "svg-backgrounds",
+    "title": "SVG Backgrounds",
+    "url": "https://www.svgbackgrounds.com/",
+    "description": "SVG Backgrounds hosts a collection of customizable SVG-based repeating patterns and backgrounds for websites and blogs.",
+    "image": "https://www.svgbackgrounds.com/img/svg-backgrounds-preview.png",
+    "tags": ["svg", "colors", "css"],
+    "repo": "#"
+  },
+  {
+    "name": "realtime-colors",
+    "title": "Realtime Colors",
+    "url": "https://realtimecolors.com/",
+    "description": "Visualize your color palettes on a real website.",
+    "image": "https://github.com/juxtopposed/realtimecolors/blob/main/images/preview.png?raw=true",
+    "tags": ["colors", "design"],
+    "repo": "https://github.com/juxtopposed/realtimecolors"
+  },
+  {
+    "name": "font-pair",
+    "title": "Font Pair",
+    "url": "https://www.fontpair.co/",
+    "description": "Free typography for your next design project (Google Fonts, Fontshare, Fontesk, Font Squirrel, and more)",
+    "image": "https://global-uploads.webflow.com/6262d15e87c1ba75ee7ce234/62ba1628f39c7fbedd244252_Wrap%20Capture%20-%202022-06-27T164141.552.png",
+    "tags": ["fonts", "typography", "design"],
+    "repo": "#"
+  },
+  {
+    "name": "haikei",
+    "title": "Haikei",
+    "url": "https://app.haikei.app/",
+    "description": "A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.",
+    "image": "https://haikei.app/haikei-cover.png",
+    "tags": ["svg", "design"],
+    "repo": "#"
+  },
+  {
+    "name": "gradient-style",
+    "title": "Gradient Style",
+    "url": "https://gradient.style/",
+    "description": "Wide gamut Color 4 compliant CSS gradient builder.",
+    "image": "#",
+    "tags": ["gradient", "design", "colors"],
+    "repo": "#"
+  },
+  {
+    "name": "icones",
+    "title": "Icones",
+    "url": "https://icones.js.org/",
+    "description": "Icon Explorer with Instant searching, powered by Iconify",
+    "image": "https://github.com/antfu/icones/raw/main/screenshots/1.png",
+    "tags": ["icons", "svg"],
+    "repo": "https://github.com/antfu/icones"
+  },
+  {
+    "name": "shadow-palette",
+    "title": "Shadow Palette",
+    "url": "https://www.joshwcomeau.com/shadow-palette/",
+    "description": "Create a set of lush, realistic CSS shadows.",
+    "image": "https://www.joshwcomeau.com/images/og-announcing-shadow-palette-generator.png",
+    "tags": ["shadows", "css", "gradient"],
+    "repo": "#"
+  },
+  {
+    "name": "css-generators",
+    "title": "CSS Generators",
+    "url": "https://css-generators.com/",
+    "description": "A wide range of CSS Generators to build the future of the web. Add your setting, get your CSS code.",
+    "image": "https://css-generators.com/css-generators-banner.png",
+    "tags": ["css", "gradient", "shadows"],
+    "repo": "#"
   }
 ]
