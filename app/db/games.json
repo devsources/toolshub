@@ -7,5 +7,23 @@
     "image": "https://cantunsee.space/og-image.png",
     "tags": ["game", "design", "ui"],
     "repo": "https://github.com/ibelick/ui-snippets"
+  },
+  {
+    "name": "js-challenger",
+    "title": "JS Challenger",
+    "url": "https://jschallenger.com/",
+    "description": "Free Javascript challenges. Learn Javascript online by solving coding exercises. Javascript for all levels. Solve Javascript tasks from beginner to advanced levels.",
+    "image": "https://www.jschallenger.com/jschallenger.png",
+    "tags": ["challenges", "javascript"],
+    "repo": "#"
+  },
+  {
+    "name": "retos-de-programacion",
+    "title": "Retos De Programación",
+    "url": "https://retosdeprogramacion.com/",
+    "description": "Ejercicios semanales para mejorar tu lógica de programación y desarrollo de aplicaciones mensuales para añadir a tu portfolio personal. Gratis, a tu ritmo y en comunidad.",
+    "image": "https://assets.popsy.co/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3dZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b8d892b5184d5f278da1ec680091a5b4ffc4127e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RTNKbGMybDZaVjkwYjE5bWFXeHNXd2RwQXJBRWFRSjJBZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--db37a49cd10aab388205187d56d67a17a5bb8cf8/portada_twitter.jpg",
+    "tags": ["challenges", "javascript"],
+    "repo": "#"
   }
 ]
