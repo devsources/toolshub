@@ -6,12 +6,12 @@ export function Header() {
 		<header className='border-b border-gray-800 text-white sticky top-0 z-10 backdrop-blur-md'>
 			<nav className='h-16 max-w-7xl mx-auto flex justify-between items-center p-4'>
 				<h1 className='font-bold'>
-					<Link href='/'>Devsources.</Link>
+					<Link href='/'>ToolsHub.</Link>
 				</h1>
 
 				<ul className='flex items-center gap-4'>
 					<li>
-						<Link href='https://github.com/devsources/devsources'>
+						<Link href='https://github.com/devsources/toolshub'>
 							<IconBrandGithub />
 						</Link>
 					</li>
