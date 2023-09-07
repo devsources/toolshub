@@ -8,7 +8,12 @@ const poppinsFont = Poppins({ subsets: ['latin'], weight: ['500', '700'] })
 
 export const metadata: Metadata = {
 	title: 'ToolsHub',
-	description: 'Resources for developers',
+	description:
+		'Aumenta tu productividad con nuestras herramientas profesionales. Impulsa tu éxito en el desarrollo y el diseño web.',
+	viewport: {
+		width: 'device-width',
+		initialScale: 1
+	},
 	icons: [
 		// Light mode icons
 		{
