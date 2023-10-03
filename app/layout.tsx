@@ -3,6 +3,7 @@ import { Footer } from './components/Footer'
 import { Header } from './components/Header'
 import './globals.css'
 import { Poppins } from 'next/font/google'
+import { ThemeProvider } from './components/ThemeProvider'
 
 const poppinsFont = Poppins({ subsets: ['latin'], weight: ['500', '700'] })
 
@@ -75,10 +76,17 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 	return (
 		<html lang='en'>
 			<body className={poppinsFont.className}>
-				<Header />
-				{children}
+				<ThemeProvider
+					attribute='class'
+					defaultTheme='dark'
+					// enableSystem
+					disableTransitionOnChange
+				>
+					<Header />
+					{children}
 
-				<Footer />
+					<Footer />
+				</ThemeProvider>
 			</body>
 		</html>
 	)

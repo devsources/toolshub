@@ -11,8 +11,10 @@ export default async function Page({ params: { category } }: Props) {
 	const resources = (await import(`@/app/db/${category}`)).default as Resource[]
 
 	return (
-		<main className='max-w-7xl my-20 mx-auto'>
-			<h1 className='font-bold text-4xl text-center'>{unsluglify(category)}</h1>
+		<main className='mx-auto my-20 max-w-7xl'>
+			<h1 className='text-4xl font-bold text-center text-primary dark:text-white'>
+				{unsluglify(category)}
+			</h1>
 
 			<Search resources={resources} />
 		</main>
