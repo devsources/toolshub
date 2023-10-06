@@ -2,8 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+	:root {
+		--background: #fffffe;
+	}
+
+	.dark {
+		--background: #090009;
+	}
+}
+
 :root {
-	@apply bg-primary;
+	@apply bg-background dark:bg-background;
 }
 
 body {

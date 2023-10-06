@@ -11,7 +11,9 @@ const CATEGORY_CARD_GRADIENTS = [
 export function CategoriesSection() {
 	return (
 		<section>
-			<h3 className='font-semibold text-center text-4xl'>Categories</h3>
+			<h3 className='text-4xl font-semibold text-center text-primary dark:text-white'>
+				Categories
+			</h3>
 
 			<section className='grid grid-cols-[repeat(auto-fill,minmax(min(250px,100%),1fr))] gap-4 my-20'>
 				{categories.map(({ description, name, slug }, index) => (

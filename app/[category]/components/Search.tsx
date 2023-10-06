@@ -28,14 +28,14 @@ export function Search({ resources }: Props) {
 
 	return (
 		<section>
-			<label className='flex items-center justify-center w-fit mx-auto gap-2 relative text-gray-900 my-12'>
+			<label className='relative flex items-center justify-center gap-2 mx-auto my-12 w-fit text-primary dark:text-white'>
 				<IconSearch className='absolute left-4' />
 				<input
 					onChange={handleSearchChange}
 					type='search'
 					name={searchInputId}
 					id={searchInputId}
-					className='pl-12 pr-16 py-2 rounded-full'
+					className='py-2 pl-12 pr-16 rounded-full'
 				/>
 
 				<span className='absolute right-4'>Search</span>
